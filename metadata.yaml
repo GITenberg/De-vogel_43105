@@ -35,6 +35,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43105#De-vogel
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
